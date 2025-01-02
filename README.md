@@ -6,9 +6,9 @@
 
 ## 🔥 Premium Crypto Scripts & Tools
 
--   🔭 Memex Free pumpfun clone
--   🌱 Betriver Free Betfair Clone
--   👯 Free Galxe clone script
+-   🔭 [Memex Free pumpfun clone](https://github.com/scriptoshi/memex)
+-   🌱 [Betriver Free Betfair Clone](https://github.com/scriptoshi/betriver)
+-   👯[ Free Galxe clone script](https://github.com/scriptoshi/giveaways)
 -   🤔 Crypto Community Master (Comming soon)
 -   💬 Crypto ai agent hub. (Comming soon)
 -   📫 Crypto forex derivatives exchange
