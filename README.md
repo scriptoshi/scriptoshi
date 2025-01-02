@@ -14,6 +14,7 @@
 -   📫 Crypto forex derivatives exchange
 -   😄 Crypto stock derivatives exchnage
 -   ⚡ So much more
+
     Welcome to your one-stop destination for high-quality crypto trading and development tools. We're passionate about empowering the crypto community with professional-grade scripts and dedicated support.
 
 ### 🛠️ What We Offer
