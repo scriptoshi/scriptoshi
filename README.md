@@ -1,72 +1,29 @@
-# 🚀 Hi there 👋
+# 🚀 Hi there, I'm scriptoshi
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scriptoshi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sleeprotocol)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://scriptoshi.com)
+[![Website](https://img.shields.io/badge/vonos.io-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://vonos.io)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vonosio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scriptoshi)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vonos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vonosio)
 
-## 🔥 Premium Crypto Scripts & Tools
+I build [Vonos](https://vonos.io) — a research-backed database of 300+ micro-SaaS and business ideas for solo founders, plus done-for-you MVP packs that ship as real, deployable products instead of another "idea list."
 
--   🔭 [Memex Free pumpfun clone](https://github.com/scriptoshi/memex)
--   🌱 [Betriver Free Betfair Clone](https://github.com/scriptoshi/betriver)
--   👯[ Free Galxe clone script](https://github.com/scriptoshi/giveaways)
--   🤔 Crypto Community Master (Comming soon)
--   💬 Crypto ai agent hub. (Comming soon)
--   📫 Crypto forex derivatives exchange
--   😄 Crypto stock derivatives exchnage
--   ⚡ So much more
+## 💡 What I'm building
 
-    Welcome to your one-stop destination for high-quality crypto trading and development tools. We're passionate about empowering the crypto community with professional-grade scripts and dedicated support.
+**[Business Ideas Database](https://vonos.io/business-ideas-database)** — a filterable, pre-scored database of micro-SaaS opportunities. Every idea comes with build difficulty, revenue ceiling estimates, keyword/search-intent data, and a competitive breakdown, so you skip weeks of market research and get straight to shipping.
 
-### 🛠️ What We Offer
+**[Big Idea](https://vonos.io/online-business-ideas/big-idea)** — the first done-for-you MVP pack: a full-spec idea-management and feedback-board SaaS (submissions, voting, triage workflow, public roadmap, changelog, 2FA/passkeys, and AI-powered idea clustering/triage). It's not a stripped-down demo — it's the whole product, source included, ready to deploy under your own brand into a niche the big players ignore.
 
-```javascript
-const scriptoshiFeatures = {
-    scripts: [
-        "Trading Bots",
-        "DEX Tools",
-        "Smart Contracts",
-        "Analytics Tools",
-    ],
-    support: "24/7 Personal Assistance",
-    quality: "Professionally Audited Code",
-    updates: "Regular Maintenance & Improvements",
-};
-```
+**[Online Logo Maker](https://vonos.io/online-logo-maker)** — a free, in-browser logo generator for spinning up a quick brand mark for your next micro-SaaS launch.
 
-### 💎 Why Choose Scriptoshi?
+## 🛠️ Stack
 
--   **Expert Support**: Direct access to developers via Telegram
--   **Quality Assured**: Thoroughly tested and optimized code
--   **Active Community**: Join fellow crypto enthusiasts
--   **Regular Updates**: Stay ahead with latest features
+Mostly Laravel, Livewire/Flux, and Tailwind — I lean on the TALL stack for anything I ship myself, whether that's Vonos or the MVP packs sold through it.
 
-## 🤝 Support & Community
+## 🤝 Get in touch
 
-```python
-def get_support():
-    return {
-        "telegram_community": "https://t.me/scriptoshi",
-        "personal_support": "https://t.me/freshdropsadmin",
-        "website": "https://scriptoshi.com"
-    }
-```
-
-### 🌟 Connect With Us
-
-Join our thriving community and get exclusive access to:
-
--   Early script releases
--   Technical support
--   Community events
--   Trading insights
-
-## 🚀 Getting Started
-
-1. Visit [scriptoshi.com](https://scriptoshi.com)
-2. Browse our script collection
-3. Join our [Telegram](https://t.me/scriptoshi)
-4. Get personalized support
+The fastest way to reach me is Signal or Telegram — see [vonos.io/contact-vonos](https://vonos.io/contact-vonos) for direct links (including a Signal QR code) and info on enterprise/fintech development engagements.
 
 ---
 
-### 💫 Transforming Crypto Trading, One Script at a Time 💫
+### 💫 Guerilla business ideas, done-for-you MVPs, and the tools to launch them
