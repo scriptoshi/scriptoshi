@@ -7,18 +7,18 @@ You can explore my code on [GitHub](https://github.com/scriptoshi), read my writ
 ## Fiverr gigs
 
 <p align="center">
-  <a href="https://www.fiverr.com/scriptoshi/build-custom-time-attendance-and-timesheet-software"><img src="assets/gigs/03-time-attendance-hot-portrait-v3.jpg" alt="Custom timesheet software gig cover" width="320"></a>
-  <a href="https://www.fiverr.com/scriptoshi/build-custom-document-management-and-approval-software"><img src="assets/gigs/02-document-approval-hot-portrait-v3.jpg" alt="Document management and approval software gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-custom-time-attendance-and-timesheet-software"><img src="assets/gigs/03-time-attendance-hot-portrait-v3.jpg" alt="Custom timesheet software development fiverr gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-custom-document-management-and-approval-software"><img src="assets/gigs/02-document-approval-hot-portrait-v3.jpg" alt="Document management and approval software development fiverr gig cover" width="320"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.fiverr.com/scriptoshi/build-a-responsive-seo-friendly-website-in-laravel"><img src="assets/gigs/01-responsive-website-hot-portrait-v3.jpg" alt="Responsive website development gig cover" width="320"></a>
-  <a href="https://www.fiverr.com/scriptoshi/build-a-hotel-or-bed-and-breakfast-website-in-laravel"><img src="assets/gigs/05-hotel-bnb-hot-portrait-v3.jpg" alt="Hotel website development gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-a-responsive-seo-friendly-website-in-laravel"><img src="assets/gigs/01-responsive-website-hot-portrait-v3.jpg" alt="Responsive website development  fiverr gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-a-hotel-or-bed-and-breakfast-website-in-laravel"><img src="assets/gigs/05-hotel-bnb-hot-portrait-v3.jpg" alt="Hotel website development fiverr gig cover" width="320"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.fiverr.com/scriptoshi/build-a-self-hosted-website-uptime-monitoring-dashboard"><img src="assets/gigs/06-uptime-monitoring-hot-portrait-v3.jpg" alt="Website uptime monitoring gig cover" width="320"></a>
-  <a href="https://www.fiverr.com/scriptoshi/develop-a-custom-crypto-exchange-in-laravel"><img src="assets/gigs/07-crypto-exchange-hot-portrait-v3.jpg" alt="Custom crypto exchange development gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-a-self-hosted-website-uptime-monitoring-dashboard"><img src="assets/gigs/06-uptime-monitoring-hot-portrait-v3.jpg" alt="Website uptime monitoring development fiverr  gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/develop-a-custom-crypto-exchange-in-laravel"><img src="assets/gigs/07-crypto-exchange-hot-portrait-v3.jpg" alt="Custom crypto exchange development fiverr gig cover" width="320"></a>
 </p>
 
 ## Get in touch
@@ -31,3 +31,5 @@ You can explore my code on [GitHub](https://github.com/scriptoshi), read my writ
 - [WhatsApp](https://wa.me/256789338731)
 - [GitHub](https://github.com/scriptoshi)
 - [Medium](https://medium.com/@stephenisaac)
+
+
