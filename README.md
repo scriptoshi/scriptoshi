@@ -1,29 +1,29 @@
-# 🚀 Hi there, I'm scriptoshi
+# Hi, I'm Stephen 👋
 
-[![Website](https://img.shields.io/badge/vonos.io-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://vonos.io)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vonosio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scriptoshi)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vonos)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vonosio)
+I'm an open source developer and freelancer building websites and custom software. I work mainly with Laravel, Livewire, Vue.js, MySQL, and Ubuntu.
 
-I build [Vonos](https://vonos.io) — a research-backed database of 300+ micro-SaaS and business ideas for solo founders, plus done-for-you MVP packs that ship as real, deployable products instead of another "idea list."
+You can explore my code on [GitHub](https://github.com/scriptoshi), read my writing on [Medium](https://medium.com/@stephenisaac), or visit [xpawa.com](https://xpawa.com).
 
-## 💡 What I'm building
+## Freelance services
 
-**[Business Ideas Database](https://vonos.io/business-ideas-database)** — a filterable, pre-scored database of micro-SaaS opportunities. Every idea comes with build difficulty, revenue ceiling estimates, keyword/search-intent data, and a competitive breakdown, so you skip weeks of market research and get straight to shipping.
+I offer these services on Fiverr:
 
-**[Big Idea](https://vonos.io/online-business-ideas/big-idea)** — the first done-for-you MVP pack: a full-spec idea-management and feedback-board SaaS (submissions, voting, triage workflow, public roadmap, changelog, 2FA/passkeys, and AI-powered idea clustering/triage). It's not a stripped-down demo — it's the whole product, source included, ready to deploy under your own brand into a niche the big players ignore.
+| Service | Gig |
+| --- | --- |
+| Time attendance and timesheet software | [View gig](https://www.fiverr.com/scriptoshi/build-custom-time-attendance-and-timesheet-software) |
+| Document management and approval software | [View gig](https://www.fiverr.com/scriptoshi/build-custom-document-management-and-approval-software) |
+| Responsive, SEO-friendly Laravel websites | [View gig](https://www.fiverr.com/scriptoshi/build-a-responsive-seo-friendly-website-in-laravel) |
+| Hotel and bed-and-breakfast websites | [View gig](https://www.fiverr.com/scriptoshi/build-a-hotel-or-bed-and-breakfast-website-in-laravel) |
+| Self-hosted uptime monitoring dashboards | [View gig](https://www.fiverr.com/scriptoshi/build-a-self-hosted-website-uptime-monitoring-dashboard) |
+| Custom crypto exchanges in Laravel | [View gig](https://www.fiverr.com/scriptoshi/develop-a-custom-crypto-exchange-in-laravel) |
 
-**[Online Logo Maker](https://vonos.io/online-logo-maker)** — a free, in-browser logo generator for spinning up a quick brand mark for your next micro-SaaS launch.
+## Get in touch
 
-## 🛠️ Stack
-
-Mostly Laravel, Livewire/Flux, and Tailwind — I lean on the TALL stack for anything I ship myself, whether that's Vonos or the MVP packs sold through it.
-
-## 🤝 Get in touch
-
-The fastest way to reach me is Signal or Telegram — see [vonos.io/contact-vonos](https://vonos.io/contact-vonos) for direct links (including a Signal QR code) and info on enterprise/fintech development engagements.
-
----
-
-### 💫 Guerilla business ideas, done-for-you MVPs, and the tools to launch them
+- [Website](https://xpawa.com)
+- [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=ofumbi@live.com)
+- [Telegram](https://t.me/vonosio)
+- [X](https://x.com/wemog4fun)
+- [Signal](https://signal.me/#eu/0c0H4op-QiacQRHY3UYHK9Z9l0dGBW2aJagX1VoL6gm45f1pWA9Fe6bizPudL0lI)
+- [WhatsApp](https://wa.me/256789338731)
+- [GitHub](https://github.com/scriptoshi)
+- [Medium](https://medium.com/@stephenisaac)
