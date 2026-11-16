@@ -4,18 +4,22 @@ I'm an open source developer and freelancer building websites and custom softwar
 
 You can explore my code on [GitHub](https://github.com/scriptoshi), read my writing on [Medium](https://medium.com/@stephenisaac), or visit [xpawa.com](https://xpawa.com).
 
-## Freelance services
+## Fiverr gigs
 
-I offer these services on Fiverr:
+<p align="center">
+  <a href="https://www.fiverr.com/scriptoshi/build-custom-time-attendance-and-timesheet-software"><img src="assets/gigs/03-time-attendance-hot-portrait-v3.jpg" alt="Custom timesheet software gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-custom-document-management-and-approval-software"><img src="assets/gigs/02-document-approval-hot-portrait-v3.jpg" alt="Document management and approval software gig cover" width="320"></a>
+</p>
 
-| Service | Gig |
-| --- | --- |
-| Time attendance and timesheet software | [View gig](https://www.fiverr.com/scriptoshi/build-custom-time-attendance-and-timesheet-software) |
-| Document management and approval software | [View gig](https://www.fiverr.com/scriptoshi/build-custom-document-management-and-approval-software) |
-| Responsive, SEO-friendly Laravel websites | [View gig](https://www.fiverr.com/scriptoshi/build-a-responsive-seo-friendly-website-in-laravel) |
-| Hotel and bed-and-breakfast websites | [View gig](https://www.fiverr.com/scriptoshi/build-a-hotel-or-bed-and-breakfast-website-in-laravel) |
-| Self-hosted uptime monitoring dashboards | [View gig](https://www.fiverr.com/scriptoshi/build-a-self-hosted-website-uptime-monitoring-dashboard) |
-| Custom crypto exchanges in Laravel | [View gig](https://www.fiverr.com/scriptoshi/develop-a-custom-crypto-exchange-in-laravel) |
+<p align="center">
+  <a href="https://www.fiverr.com/scriptoshi/build-a-responsive-seo-friendly-website-in-laravel"><img src="assets/gigs/01-responsive-website-hot-portrait-v3.jpg" alt="Responsive website development gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/build-a-hotel-or-bed-and-breakfast-website-in-laravel"><img src="assets/gigs/05-hotel-bnb-hot-portrait-v3.jpg" alt="Hotel website development gig cover" width="320"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.fiverr.com/scriptoshi/build-a-self-hosted-website-uptime-monitoring-dashboard"><img src="assets/gigs/06-uptime-monitoring-hot-portrait-v3.jpg" alt="Website uptime monitoring gig cover" width="320"></a>
+  <a href="https://www.fiverr.com/scriptoshi/develop-a-custom-crypto-exchange-in-laravel"><img src="assets/gigs/07-crypto-exchange-hot-portrait-v3.jpg" alt="Custom crypto exchange development gig cover" width="320"></a>
+</p>
 
 ## Get in touch
 
